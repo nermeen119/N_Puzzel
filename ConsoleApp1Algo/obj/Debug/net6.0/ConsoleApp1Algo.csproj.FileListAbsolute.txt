@@ -1,0 +1,15 @@
+E:\VS_c++\ConsoleApp1Algo\ConsoleApp1Algo\bin\Debug\net6.0\ConsoleApp1Algo.exe
+E:\VS_c++\ConsoleApp1Algo\ConsoleApp1Algo\bin\Debug\net6.0\ConsoleApp1Algo.deps.json
+E:\VS_c++\ConsoleApp1Algo\ConsoleApp1Algo\bin\Debug\net6.0\ConsoleApp1Algo.runtimeconfig.json
+E:\VS_c++\ConsoleApp1Algo\ConsoleApp1Algo\bin\Debug\net6.0\ConsoleApp1Algo.dll
+E:\VS_c++\ConsoleApp1Algo\ConsoleApp1Algo\bin\Debug\net6.0\ConsoleApp1Algo.pdb
+E:\VS_c++\ConsoleApp1Algo\ConsoleApp1Algo\obj\Debug\net6.0\ConsoleApp1Algo.csproj.AssemblyReference.cache
+E:\VS_c++\ConsoleApp1Algo\ConsoleApp1Algo\obj\Debug\net6.0\ConsoleApp1Algo.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS_c++\ConsoleApp1Algo\ConsoleApp1Algo\obj\Debug\net6.0\ConsoleApp1Algo.AssemblyInfoInputs.cache
+E:\VS_c++\ConsoleApp1Algo\ConsoleApp1Algo\obj\Debug\net6.0\ConsoleApp1Algo.AssemblyInfo.cs
+E:\VS_c++\ConsoleApp1Algo\ConsoleApp1Algo\obj\Debug\net6.0\ConsoleApp1Algo.csproj.CoreCompileInputs.cache
+E:\VS_c++\ConsoleApp1Algo\ConsoleApp1Algo\obj\Debug\net6.0\ConsoleApp1Algo.dll
+E:\VS_c++\ConsoleApp1Algo\ConsoleApp1Algo\obj\Debug\net6.0\refint\ConsoleApp1Algo.dll
+E:\VS_c++\ConsoleApp1Algo\ConsoleApp1Algo\obj\Debug\net6.0\ConsoleApp1Algo.pdb
+E:\VS_c++\ConsoleApp1Algo\ConsoleApp1Algo\obj\Debug\net6.0\ConsoleApp1Algo.genruntimeconfig.cache
+E:\VS_c++\ConsoleApp1Algo\ConsoleApp1Algo\obj\Debug\net6.0\ref\ConsoleApp1Algo.dll
